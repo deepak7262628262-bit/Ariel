@@ -70,5 +70,11 @@
         "key": "d9",
         "expirydate": "03-07-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "1e32742588b2ad45",
+        "key": "d10",
+        "expirydate": "04-07-2026",
+        "Allowoffline": false
     }
 ]
