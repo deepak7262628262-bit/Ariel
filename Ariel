@@ -208,5 +208,11 @@
         "key": "d32",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "f1eb3cea5308e4ea",
+        "key": "d33",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
