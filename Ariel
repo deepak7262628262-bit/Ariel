@@ -328,6 +328,12 @@
         "key": "d52",
         "expirydate": "30-07-2026",
         "Allowoffline": true
+    },
+{
+        "device_id": "f996f5ba467b80e3",
+        "key": "d53",
+        "expirydate": "30-07-2026",
+        "Allowoffline": true
     }
 
 ]
